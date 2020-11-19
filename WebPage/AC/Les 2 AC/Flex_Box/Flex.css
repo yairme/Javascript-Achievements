@@ -4,7 +4,7 @@
     height:auto;
     display: flex;
     flex-direction:column;
-    justify-content: center;
+    justify-content: center;   
     align-items: center;
 }
 .flexbox{
@@ -19,3 +19,8 @@
 /************************************************/
 
 /* schrijft je css hier onder */
+
+.flex1{
+    flex-direction: column;
+    align-items: center;
+}
